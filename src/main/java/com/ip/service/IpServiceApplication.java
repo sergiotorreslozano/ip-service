@@ -9,4 +9,5 @@ public class IpServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(IpServiceApplication.class, args);
 	}
+
 }
